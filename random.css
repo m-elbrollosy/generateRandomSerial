@@ -1,0 +1,27 @@
+.serial {
+    background-color: antiquewhite;
+    padding: 1rem;
+    margin: 1rem auto;
+    font-size: 2rem;
+    width: fit-content;
+    /* text-align: center; */
+    }
+    .generate {
+    display: block;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: red;
+    color: #fff;
+    width: fit-content;
+    text-align: center;
+    font-size: 32px;
+    cursor: pointer;
+    user-select: none;
+    }
+    input {
+        width: 15vw;
+        display: block;
+        height: 2rem;
+        text-align: center;
+        margin: 1rem auto;
+    }

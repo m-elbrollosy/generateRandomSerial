@@ -1,1 +1,1 @@
-# generateRandomSerial
+# generateSerialCode
